@@ -2,6 +2,9 @@
   --oui-font-family: 'Manrope', sans-serif;
   --oui-font-size-base: 16px;
 
+scrollbar-width: thin;
+scrollbar-color: rgba(255, 0, 0, 0.5) transparent;
+
   /* colors */
   --oui-color-primary: 255 0 0;
   --oui-color-primary-light: 255 100 100;
