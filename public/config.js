@@ -35,7 +35,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, crypto, trading, defi, orderly, $ORDER, perps, perpetual futures, AetherX",
   "VITE_AVAILABLE_LANGUAGES": "en,es,fr,it,nl,pt,ru,ko,zh,tc,vi,id,pl,tr,de,ja,uk",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
