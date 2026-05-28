@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@AetherXCapital",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "dex, crypto, trading, defi, orderly, $ORDER, perps, perpetual futures, AetherX, omnichain, self custody, cryptocurrency, $BTC, $ETH. $SOL, $HYPE, orderbook",
-  "VITE_AVAILABLE_LANGUAGES": "en,es,fr,it,nl,pt,ru,ko,zh,tc,vi,id,pl,tr,de,ja,uk",
+  "VITE_AVAILABLE_LANGUAGES": "en,es,fr,it,nl,pt,ru,ko,zh,tc,vi,id,pl,tr,de,ja,uk,ar,fa,he",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
